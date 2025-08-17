@@ -91,18 +91,7 @@ Customize `script.js` to:
 - Update scroll effects
 - Add new interactive features
 
-## 📱 Responsive Breakpoints
-
-- **Mobile**: < 768px
-- **Tablet**: 768px - 1024px
-- **Desktop**: > 1024px
-
 ## 🌟 Key Features Explained
-
-### Navigation
-- Fixed navigation bar with smooth scrolling
-- Mobile hamburger menu
-- Active link highlighting
 
 ### Animations
 - Scroll-triggered animations using Intersection Observer
@@ -131,10 +120,6 @@ Customize `script.js` to:
 - Safari 12+
 - Edge 79+
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
@@ -142,7 +127,5 @@ Feel free to submit issues and enhancement requests!
 ## 📞 Contact
 
 For any questions or suggestions, please reach out through the contact form on the portfolio website.
-
 ---
-
 **Built with ❤️ using HTML, CSS, and JavaScript**
